@@ -44,3 +44,7 @@ Haz clic en el botón verde de ejecución (Play).
 Haz clic con el ratón directamente sobre la ventana negra de la consola inferior para darle el foco de entrada.
 Escribe los comandos (ej. `cmd1`, `led on`) y presiona Enter. (Nota: Wokwi no muestra eco de caracteres en pantalla, se escriben a ciegas).
 Periféricos: Añade elementos visuales desde el archivo `diagram.json` o la interfaz de Wokwi (LEDs, potenciómetro en GPIO34, pantalla OLED en SDA:21 / SCL:22).
+
+
+
+link de simulacion de ejercicios: https://youtu.be/oXqQNqoAsHw
