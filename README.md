@@ -1,4 +1,4 @@
-Manual Técnico y Guía de Simulación - ESP32 (ESP-IDF)
+Guía de Simulación - ESP32 (ESP-IDF)
 Este repositorio contiene la documentación completa, diagramas y códigos fuente en C puro (ESP-IDF) para los tres ejercicios de sistemas embebidos utilizando el simulador Wokwi.
 ---
 Índice
